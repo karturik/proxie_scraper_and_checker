@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<script data-blockingmode="auto" data-cbid="e8dea03d-c444-4b5a-8290-dfc15a100857" id="Cookiebot" src="https://consent.cookiebot.com/uc.js" type="text/javascript"></script>
+<script type="text/javascript">
+	function CookiebotCallback_OnAccept() {
+           if (Cookiebot.consent.statistics)            {
+               console.log("thanks");
+
+
+
+}
+}
+</script>
+<link href="https://proxyscrape.com/share/l5ty3b9" rel="canonical"/><meta content="noindex, follow" name="robots"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5574P3K');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1704999106306439');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=1704999106306439&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Selly referal tracking -->
+<script>
+    function getCookie_alp(name) {
+    var v = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+    return v ? v[2] : null;
+}
+
+
+    function parse_query_string_alp(query) {
+  var vars = query.split("&");
+  var query_string = {};
+  for (var i = 0; i < vars.length; i++) {
+    var pair = vars[i].split("=");
+    var key = decodeURIComponent(pair[0]);
+    var value = decodeURIComponent(pair[1]);
+    // If first entry with this name
+    if (typeof query_string[key] === "undefined") {
+      query_string[key] = decodeURIComponent(value);
+      // If second entry with this name
+    } else if (typeof query_string[key] === "string") {
+      var arr = [query_string[key], decodeURIComponent(value)];
+      query_string[key] = arr;
+      // If third or later entry with this name
+    } else {
+      query_string[key].push(decodeURIComponent(value));
+    }
+  }
+  return query_string;
+}
+
+
+var parsed_qs_alp = parse_query_string_alp(location.search.substring(1));
+var refferal_alp = parsed_qs_alp.ref;
+if (refferal_alp != null){
+    document.cookie = "last_ref=" + encodeURI(refferal_alp) + "; expires=Thu, 18 Dec 2050 12:00:00 UTC; path=/";
+}
+var refferal_alp = getCookie_alp("ref");
+if (refferal_alp == null) {
+    var refferal_alp = parsed_qs_alp.ref;
+
+}
+
+var visits_alp = getCookie_alp("visits");
+if (visits_alp != null) {
+  visits_alp = parseInt(visits_alp);
+  visits_alp += 1;
+  document.cookie = "visits=" + encodeURI(visits_alp) + "; expires=Thu, 18 Dec 2050 12:00:00 UTC; path=/";
+} else {
+  document.cookie = "visits=1; expires=Thu, 18 Dec 2050 12:00:00 UTC; path=/";
+}
+
+if (refferal_alp != null){
+    document.cookie = "ref=" + encodeURI(refferal_alp) + "; expires=Thu, 18 Dec 2050 12:00:00 UTC; path=/";
+}
+
+</script>
+<!-- End shoppy referal tracking -->
+<!-- BASIC META-->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="ProxyScrape" name="author"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<!--page specific tags-->
+<meta content="Shared proxies l5ty3b9" name="description"/>
+<meta content="Shared proxies l5ty3b9" property="og:description"/>
+<meta content="Shared proxies l5ty3b9" name="keywords"/>
+<meta content="00e61yfdunfqc7twc7qnsqx13g61vl" name="facebook-domain-verification">
+<meta content="Shared proxies l5ty3b9" property="og:title"/>
+<title>Shared proxies l5ty3b9</title>
+<!-- FAVICON -->
+<link href="https://cdn.proxyscrape.com/img/favicon/favicon.ico" rel="icon"/>
+<meta content="https://cdn.proxyscrape.com/img/favicon/favicon.png?v=3" property="og:image"/>
+<link as="font" crossorigin="anonymous" href="https://cdn.proxyscrape.com/fonts/montserrat/Montserrat-SemiBold.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="https://cdn.proxyscrape.com/fonts/montserrat/Montserrat-Regular.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="https://cdn.proxyscrape.com/fonts/montserrat/Montserrat-Medium.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="anonymous" href="https://cdn.proxyscrape.com/fonts/montserrat/Montserrat-Bold.woff2" rel="preload" type="font/woff2"/>
+<link href="https://cdn.proxyscrape.com/css/normalize.min.css?v=1" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.proxyscrape.com/css/bootstrap.min.css?v=1" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.proxyscrape.com/css/fonts.min.css?v=1" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.proxyscrape.com/css/style.min.css?v=35" rel="stylesheet" type="text/css"/>
+<link href="https://cdn.proxyscrape.com/css/nice-select.min.css?v=1" rel="stylesheet" type="text/css"/>
+<script src="https://cdn.proxyscrape.com/js/jquery.min.js"></script>
+</meta></head>
+<body>
+<div id="sbbhscc" style="display:none"></div>
+<script type="text/javascript">
+            var sbbvscc='';
+            var sbbgscc='';
+            function genPid() {return String.fromCharCode(89)+String.fromCharCode(112) ; };
+          </script>
+<div id="sbbfrcc" style="position: absolute; top: -10px; left: 30px; font-size:1px"></div>
+<script type="text/javascript">(function(XHR){var open=XHR.prototype.open;var send=XHR.prototype.send;var parser=document.createElement('a');XHR.prototype.open=function(method, url, async, user, pass){if(typeof async=='undefined'){async=true;}parser.href=url;if(parser.host==''){parser.href=parser.href;}this.ajax_hostname=parser.hostname;open.call(this, method, url, async, user, pass);};XHR.prototype.send=function(data){if(location.hostname==this.ajax_hostname)this.setRequestHeader("X-MOD-SBB-CTYPE", "xhr");send.call(this, data);}})(XMLHttpRequest);if(typeof(fetch)!="undefined"){var nsbbfetch=fetch;fetch=function(url, init){if(typeof(url)==="object" && typeof(url.url)==="string"){init={method: url.method, mode: url.mode, cache: url.cache, credentials: url.credentials, headers: url.headers, body: url.body};url=url.url;}function sbbSd(url, domain){var parser=document.createElement('a');parser.href=url;if(parser.host==''){parser.href=parser.href;}return parser.hostname==location.hostname;}if(sbbSd(url, document.domain)){init=typeof init !=='undefined' ? init :{};if(typeof(init.headers)==="undefined"){init.headers={};}init.headers['X-MOD-SBB-CTYPE']='fetch';}return nsbbfetch(url, init);};}function sbbgc(check_name){var start=document.cookie.indexOf(check_name+"=");var oVal='';var len=start+check_name.length+1;if((!start)&&(document.cookie.substring(0,check_name.length)!=check_name)){oVal='';}else if(start==-1){oVal='';}else{var end=document.cookie.indexOf(';',len);if(end==-1)end=document.cookie.length;var oVal=document.cookie.substring(len,end);};return oVal;}function addmg(inm,ext){var primgobj=document.createElement('IMG');primgobj.src=window.location.protocol+"//"+window.location.hostname+(window.location.port && window.location.port!=80 ? ':'+window.location.port: '')+"/sbbi/?sbbpg="+inm+(ext?"&"+ext:"");var sbbDiv=document.getElementById('sbbfrcc');sbbDiv.appendChild(primgobj);};function addprid(prid){var oldVal=sbbgc("PRLST");if((oldVal.indexOf(prid)==-1)&&(oldVal.split('/').length<5)){if(oldVal!=''){oldVal+='/';}document.cookie='PRLST='+oldVal+escape(prid)+';path=/; SameSite=Lax;';}}var sbbeccf=function(){this.sp3="jass";this.sf1=function(vd){return sf2(vd)+32;};var sf2=function(avd){return avd*12;};this.sf4=function(yavd){return yavd+2;};var strrp=function(str, key, value){if(str.indexOf('&'+key+'=')> -1 || str.indexOf(key+'=')==0){var idx=str.indexOf('&'+key+'=');if(idx==-1)idx=str.indexOf(key+'=');var end=str.indexOf('&', idx+1);var newstr;if(end !=-1)newstr=str.substr(0, idx)+str.substr(end+(idx ? 0 : 1))+'&'+key+'='+value;else newstr=str.substr(0, idx)+'&'+key+'='+value;return newstr;}else return str+'&'+key+'='+value;};var strgt=function(name, text){if(typeof text !='string')return "";var nameEQ=name+"=";var ca=text.split(/[;&]/);for(var i=0;i < ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1, c.length);if(c.indexOf(nameEQ)==0)return c.substring(nameEQ.length, c.length);}return "";};this.sfecgs={sbbgh:function(){var domain=document.location.host;if(domain.indexOf('www.')==0)domain=domain.replace('www.', '');return domain;}, f:function(name, value){var fv="";if(window.globalStorage){var host=this.sbbgh();try{if(typeof(value)!="undefined")globalStorage[host][name]=value;else{fv=globalStorage[host][name];if(typeof(fv.toString)!="undefined")fv=fv.toString();}}catch(e){}}return fv;}, name:"sbbrf"};this.sfecls={f:function(name, value){var fv="";try{if(window.localStorage){if(typeof(value)!="undefined")localStorage.setItem(name, value);else{fv=localStorage.getItem(name);if(typeof(fv.toString)!="undefined")fv=fv.toString();}}}catch(e){}return fv;}, name:"sbbrf"};this.sbbcv=function(invl){try{var invalArr=invl.split("-");if(invalArr.length>1){if(invalArr[0]=="A"||invalArr[0]=="D"){invl=invalArr[1];}else invl="";}if(invl==null||typeof(invl)=="undefined"||invl=="falseImgUT"||invl=="undefined"||invl=="null"||invl!=encodeURI(invl))invl="";if(typeof(invl).toLowerCase()=="string")if(invl.length>20)if(invl.substr(0,2)!="h4")invl="";}catch(ex){invl="";}return invl;};this.sbbsv=function(fv){for(var elm in this){if(this[elm].name=="sbbrf"){this[elm].f("altutgv2",fv);}}document.cookie="UTGv2="+fv+';expires=Wed, 04-Jan-23 11:46:08 GMT;path=/; SameSite=Lax;';};this.sbbgv=function(){var valArr=Array();var currVal="";for(var elm in this){if(this[elm].name=="sbbrf"){currVal=this[elm].f("altutgv2");currVal=this.sbbcv(currVal);if(currVal!="")valArr[currVal]=(typeof(valArr[currVal])!="undefined"?valArr[currVal]+1:1);}}var lb=0;var fv="";for(var val in valArr){if(valArr[val]>lb){fv=val;lb=valArr[val]}}if(fv=="")fv=sbbgc("UTGv2");fv=this.sbbcv(fv);if(fv!="")this.sbbsv(fv);else this.sbbsv("D-h47f9991a2db736b1fd7568acc910f847593");return fv;};};function m2vr(m1,m2){var i=0;var rc="";var est="ghijklmnopqrstuvwyz";var rnum;var rpl;var charm1=m1.charAt(i);var charm2=m2.charAt(i);while(charm1!=""||charm2!=""){rnum=Math.floor(Math.random()* est.length);rpl=est.substring(rnum,rnum+1);rc+=(charm1==""?rpl:charm1)+(charm2==""?rpl:charm2);i++;charm1=m1.charAt(i);charm2=m2.charAt(i);}return rc;}function sbbls(prid){try{var eut=sbbgc("UTGv2");window.sbbeccfi=new sbbeccf();window.sbbgs=sbbeccfi.sbbgv();if(eut!=sbbgs && sbbgs!="" && typeof(sbbfcr)=="undefined"){addmg('utMedia',"vii="+m2vr("a38e0f14fc34dc81231ce9b5f5d0b454",sbbgs));}var sbbiframeObj=document.createElement('IFRAME');var dfx=new Date();sbbiframeObj.id='SBBCrossIframe';sbbiframeObj.title='SBBCrossIframe';sbbiframeObj.tabindex='-1';sbbiframeObj.lang='en';sbbiframeObj.style.visibility='hidden';sbbiframeObj.setAttribute('aria-hidden', 'true');sbbiframeObj.style.border='0px';if(document.all){sbbiframeObj.style.position='absolute';sbbiframeObj.style.top='-1px';sbbiframeObj.style.height='1px';sbbiframeObj.style.width='28px';}else{sbbiframeObj.style.height='1px';sbbiframeObj.style.width='0px';}sbbiframeObj.scrolling="NO";sbbiframeObj.src=window.location.protocol+"//"+window.location.hostname+(window.location.port && window.location.port!=80 ? ':'+window.location.port: '')+'/sbbi/?sbbpg=sbbShell&gprid='+prid + '&sbbgs='+sbbgs+'&ddl='+(Math.round(dfx.getTime()/1000)-1657280768)+'';var sbbDiv=document.getElementById('sbbfrcc');sbbDiv.appendChild(sbbiframeObj);}catch(ex){;}}try{var y=unescape(sbbvscc.replace(/^<\!\-\-\s*|\s*\-\->$/g,''));document.getElementById('sbbhscc').innerHTML=y;var x=unescape(sbbgscc.replace(/^<\!\-\-\s*|\s*\-\->$/g,''));}catch(e){x='function genPid(){return "jser";}';}try{if(window.gprid==undefined)document.write('<'+'script type="text/javascri'+'pt">'+x+"var gprid=genPid();addprid(gprid);sbbls(gprid);<"+"/script>");}catch(e){addprid("dwer");}</script>
+<!-- Start of LiveChat (www.livechatinc.com) code -->
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 12878919;
+    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+</script>
+<noscript><a href="https://www.livechatinc.com/chat-with/12878919/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<!-- End of LiveChat code -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5574P3K" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+<nav id="sticky-wrapper">
+<div class="container accordion" id="navaccordion">
+<div class="row">
+<div class="col-md-3 mobile-toggler-wrapper">
+<a href="/home" id="logoheadurl">
+<img alt="dark proxyscrape logo" id="toplogo" src="https://cdn.proxyscrape.com/img/logo/dark_text_logo.png"/>
+</a>
+<button aria-controls="mainmenu" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#mainmenu" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"><svg height="384pt" viewbox="0 -53 384 384" width="384pt" xmlns="http://www.w3.org/2000/svg"><path d="m368 154.667969h-352c-8.832031 0-16-7.167969-16-16s7.167969-16 16-16h352c8.832031 0 16 7.167969 16 16s-7.167969 16-16 16zm0 0"></path><path d="m368 32h-352c-8.832031 0-16-7.167969-16-16s7.167969-16 16-16h352c8.832031 0 16 7.167969 16 16s-7.167969 16-16 16zm0 0"></path><path d="m368 277.332031h-352c-8.832031 0-16-7.167969-16-16s7.167969-16 16-16h352c8.832031 0 16 7.167969 16 16s-7.167969 16-16 16zm0 0"></path></svg></span>
+</button>
+</div>
+<div class="col-md-9 navigation-container">
+<div class="navigation navbar-expand">
+<ul class="list-inline text-right collapse navbar-collapse" id="mainmenu">
+<li><a href="/home">Home</a></li>
+<li class="dropdown current-menu-has-children">
+<a aria-controls="extramenu" aria-expanded="false" aria-label="Toggle extra navigation" class="collapsed" data-target="#extramenu" data-toggle="collapse">Services<svg aria-hidden="true" class="svg-inline--fa fa-angle-down fa-w-10" data-icon="angle-down" data-prefix="fas" focusable="false" role="img" viewbox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path></svg></a>
+<div class="collapse" data-parent="#navaccordion" id="extramenu">
+<ul class="dropdown-nav dropdown-nav-left">
+<li><a href="/premium?ref=head" style="">Premium</a></li>
+<li><a href="/residential-proxies?ref=head">Residential proxies</a></li>
+<li><a href="/dedicated-proxies?ref=head">Dedicated proxies</a></li>
+</ul>
+</div>
+</li>
+<li class="dropdown current-menu-has-children">
+<a aria-controls="extramenu" aria-expanded="false" aria-label="Toggle extra navigation" class="collapsed" data-target="#extramenu" data-toggle="collapse">Freebies<svg aria-hidden="true" class="svg-inline--fa fa-angle-down fa-w-10" data-icon="angle-down" data-prefix="fas" focusable="false" role="img" viewbox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path></svg></a>
+<div class="collapse" data-parent="#navaccordion" id="extramenu">
+<ul class="dropdown-nav dropdown-nav-left">
+<li><a href="/free-proxy-list">Free proxy list</a></li>
+<li><a href="/insider-guide">Proxy insider guide</a></li>
+<li><a href="/web-proxy">Web proxy</a></li>
+<li><a href="/online-proxy-checker">Online proxy checker</a></li>
+<li><a href="/proxy-filter">Proxy filter</a></li>
+<li><a href="https://docs.proxyscrape.com/" target="_blank">API</a></li>
+</ul>
+</div>
+</li>
+<li class="dropdown current-menu-has-children">
+<a aria-controls="helpmenu" aria-expanded="false" aria-label="Toggle help navigation" class="collapsed" data-target="#helpmenu" data-toggle="collapse">help center<svg aria-hidden="true" class="svg-inline--fa fa-angle-down fa-w-10" data-icon="angle-down" data-prefix="fas" focusable="false" role="img" viewbox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path></svg></a>
+<div class="collapse" data-parent="#navaccordion" id="helpmenu">
+<ul class="dropdown-nav dropdown-nav-left">
+<li><a href="/help-center">Visit help center</a></li>
+<li><a href="https://support.proxyscrape.com/">Knowledge base</a></li>
+<li><a href="https://roadmap.proxyscrape.com/">Roadmap</a></li>
+<li><a href="/contact">Contact</a></li>
+</ul>
+</div>
+</li>
+<li><a href="/blog/">Blog</a></li>
+<li><a href="https://dashboard.proxyscrape.com/login">Login</a></li>
+<!--
+                      <li class="dropdown current-menu-has-children">
+                        <a data-toggle="collapse" data-target="#langmenu" aria-controls="langmenu" aria-expanded="false" aria-label="Toggle language navigation" class="collapsed"><i class="sprite sprite-gb_flag" role="img" aria-label="[Current language: english]"></i><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-down" class="svg-inline--fa fa-angle-down fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"></path></svg></a><div class="collapse" id="langmenu" data-parent="#navaccordion">
+                      <ul class="dropdown-nav dropdown-nav-left notranslate" style="max-height: 270px;overflow-y: scroll;">
+                        <li><a href="#" onclick="doGTranslate('en|en');return false;" title="English" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: English]"></i> English</a></li><li><a href="#" onclick="doGTranslate('en|tr');return false;" title="Turkish" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: Turkish]"></i> Türk</a></li><li><a href="#" onclick="doGTranslate('en|pa');return false;" title="Punjabi" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: Punjabi]"></i> پنجابی</a></li><li><a href="#" onclick="doGTranslate('en|hi');return false;" title="Hindi" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: Hindi]"></i> हिन्दी</a></li><li><a href="#" onclick="doGTranslate('en|id');return false;" title="indonesian" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: indonesian]"></i> bahasa Indonesia</a></li><li><a href="#" onclick="doGTranslate('en|ru');return false;" title="Russian" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: Russian]"></i> Pусский</a></li><li><a href="#" onclick="doGTranslate('en|de');return false;" title="German" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: German]"></i> Deutsch</a></li><li><a href="#" onclick="doGTranslate('en|pt');return false;" title="Portuguese" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: Portuguese]"></i> Português</a></li><li><a href="#" onclick="doGTranslate('en|fr');return false;" title="French" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: French]"></i> Français</a></li><li><a href="#" onclick="doGTranslate('en|zh-CN');return false;" title="Chinese (Simplified)" class="nturl"><i class="sprite sprite-_flag"  role="img" aria-label="[Select: Chinese (Simplified)]"></i> 简体中文</a></li>
+                      </ul>
+                  </div>
+                    </li>
+-->
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+</nav>
+</header><script async="async" src="https://platform-api.sharethis.com/js/sharethis.js#property=5ea8732e81693d0012e58a78&amp;product=sop" type="text/javascript"></script>
+<style type="text/css">
+  .sharethis-inline-share-buttons {
+    margin-bottom: 15px;
+  }
+  .sharethis-inline-share-buttons img{
+    min-height: unset;
+    max-height: unset;
+    min-width: unset;
+
+}
+</style>
+<main>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="section-title">
+<h1>Shared proxies</h1>
+<img alt="section-shape" src="https://cdn.proxyscrape.com/img/section-shape.png"/>
+<p>Share the link with anyone.<br/>The proxies are updated every minute<br/>according to the settings used before sharing.</p>
+</div>
+</div>
+<div class="col-md-12">
+<div class="itemcard wp">
+<!-- ShareThis BEGIN -->
+<div class="sharethis-inline-share-buttons"></div>
+<!-- ShareThis END -->
+<textarea id="proxyshare" style="min-height: 450px;max-height: 1000px;min-width: 100%;">Loading...</textarea>
+<button class="btn btn-blue" id="downloadbtn" onclick="savetofile()" style="
+    width: 100%; display: none;
+" type="submit">Download</button>
+</div>
+</div>
+</div></div></main>
+<script type="text/javascript">
+  var plainurl = "https://api.proxyscrape.com/shareget.php?id=l5ty3b9";
+  var urlnext = "";
+
+       $.ajax({
+           url : plainurl,
+           dataType: "text",
+           success : function (data) {
+               urlnext = data.replace('proxytype=', 'protocol=');
+               urlnext = urlnext.replace('.com', '.com/v2/');
+                      $.ajax({
+           url : urlnext,
+           dataType: "text",
+           success : function (data) {
+               $("#proxyshare").text(data);
+               $("#downloadbtn").show();
+           },
+           error: function () {
+            $("#proxyshare").text("Something went wrong while loading the proxies.");
+           }
+       });
+           },
+           error: function () {
+            $("#proxyshare").text("Something went wrong while loading the proxies.");
+           }
+       });
+   
+    function savetofile(){
+    var text = document.getElementById("proxyshare").value;
+    text = text.replace(/\n/g, "\r\n"); // To retain the Line breaks.
+    var blob = new Blob([text], { type: "text/plain"});
+    var anchor = document.createElement("a");
+    anchor.download = "proxies.txt";
+    anchor.href = window.URL.createObjectURL(blob);
+    anchor.target ="_blank";
+    anchor.style.display = "none"; // just to be safe!
+    document.body.appendChild(anchor);
+    anchor.click();
+    document.body.removeChild(anchor);
+ }
+</script>
+<footer>
+<div class="container">
+<div class="footer-main">
+<div class="row">
+<div class="col-lg-3 col-md-12 col-12">
+<div class="itemcard">
+<div class="logo">
+<a href="/home" id="bottomlogo"></a>
+</div>
+<p>Looking for help with our proxies or want to help? Here are your options:</p>
+<div>
+<div class="footer-links">
+<ul>
+<li><a href="/help-center">Visit help center</a></li>
+<li><a href="https://support.proxyscrape.com/">Knowledge base</a></li>
+<li><a href="https://www.crunchbase.com/organization/proxyscrape">Crunchbase</a></li>
+<li><a href="/contact">Contact</a></li>
+</ul>
+</div>
+<p>Thanks to everyone for the amazing support!</p>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-12 col-12">
+<div class="itemcard mgl30">
+<h2>Quick Links</h2>
+<div class="footer-links">
+<ul>
+<li><a href="/free-proxy-list">Free proxy list</a></li>
+<li><a href="/insider-guide">Proxy insider guide</a></li>
+<li><a href="/web-proxy">Web proxy</a></li>
+<li><a href="/premium?ref=footer">Premium</a></li>
+<li><a href="/online-proxy-checker">Online Proxy Checker</a></li>
+<li><a href="https://docs.proxyscrape.com/" target="_blank">API</a></li>
+<li><a href="/login">Login</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/proxy-types">Proxy types</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-12 col-12">
+<div class="itemcard mgl30">
+<h2>Important</h2>
+<div class="footer-links">
+<ul>
+<li><a href="/cookie-policy">Cookie policy</a></li>
+<li><a href="/disclaimer">Disclaimer</a></li>
+<li><a href="/privacy-policy">Privacy policy</a></li>
+<li><a href="/terms-and-conditions">Terms and conditions</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-12 col-12">
+<div class="itemcard mgl30">
+<h2>Social Media</h2>
+<div class="footer-links">
+<ul>
+<li><a href="https://www.facebook.com/ProxyScrape-2293011407635184/">Facebook</a></li>
+<li><a href="https://www.linkedin.com/company/proxyscrape/">LinkedIn</a></li>
+<li><a href="https://mobile.twitter.com/proxyscrape_off">Twitter</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--
+            <div id="feedbackbtn">
+<a href="/polls" onclick="gtag('event', 'visit_poll', {'event_category' : 'polls'});"><button class="feedback">Help us</button></a>
+</div>
+-->
+<div class="footer-bottom">
+<p class="notranslate"> © Copyright 2022 - <a href="https://thip.dev">Thib BV</a> | Brugstraat 18
+| 2812 Mechelen | VAT BE 0749 716 760</p>
+</div>
+</div>
+<script src="https://cdn.proxyscrape.com/js/jquery.nice-select2.min.js?v=4"></script>
+<script src="https://cdn.proxyscrape.com/js/jquery.sticky.js"></script>
+<script src="https://cdn.proxyscrape.com/js/bootstrap.min.js"></script>
+<!--<script src="https://cdn.proxyscrape.com/js/wd.js?v=60"></script>-->
+<style type="text/css">
+<!--
+a.gflag {vertical-align:middle;font-size:24px;padding:1px 0;background-repeat:no-repeat;background-image:url(//gtranslate.net/flags/24.png);}
+a.gflag img {border:0;}
+a.gflag:hover {background-image:url(//gtranslate.net/flags/24a.png);}
+-->
+</style>
+<script type="text/javascript">
+
+/* <![CDATA[ */
+function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;var lang=lang_pair.split('|')[1];var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang.toLowerCase() != 'zh-cn' && plang.toLowerCase() != 'zh-tw')plang='en';if(lang == 'en')location.href=location.protocol+'//'+location.host+location.pathname.replace('/'+plang+'/', '/')+location.search;else location.href=location.protocol+'//'+location.host+'/'+lang+location.pathname.replace('/'+plang+'/', '/')+location.search;}
+/* ]]> */
+</script>
+</footer>
+</body>
+<script type="text/javascript">$(document).ready(function() {
+  $('select').niceSelect();
+      $("#sticky-wrapper").sticky({topSpacing:0,zIndex:5});
+      $("#bottomlogo").html("<img src='https://cdn.proxyscrape.com/img/logo/light_text_logo.png' alt='proxyscrape light logo'>");
+      $('footer').css('background-image', 'url(https://cdn.proxyscrape.com/img/footer-bg.jpg)');
+
+      $('<img/>').attr('src', 'https://cdn.proxyscrape.com/img/background.jpg').on('load', function() {
+   $(this).remove();
+   $('body').css('background-image', 'url(https://cdn.proxyscrape.com/img/background.jpg)');
+   $('body').css('background-color', '#fff');
+});
+});
+$(document).click(function (event) {
+if (!$(event.target).is('#mainmenu *')) {
+if ($(window).width() <= 767) {
+$('#mainmenu').collapse('hide')
+}
+}
+});
+
+
+
+</script>
+<script type="text/javascript">
+  maxmind_user_id = "306854";
+  (function() {
+    var loadDeviceJs = function() {
+      var element = document.createElement('script');
+      element.src = 'https://device.maxmind.com/js/device.js';
+      document.body.appendChild(element);
+    };
+    if (window.addEventListener) {
+      window.addEventListener('load', loadDeviceJs, false);
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', loadDeviceJs);
+    }
+  })();
+</script>
+</html>
